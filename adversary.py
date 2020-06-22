@@ -1,3 +1,6 @@
+# Matthieu Schulz, 2019
+# London, United Kingdom
+
 from exceptions import BlockLimitException
 from random import Random
 from board import Shape

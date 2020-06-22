@@ -1,3 +1,6 @@
+# Matthieu Schulz, 2019
+# London, United Kingdom
+
 import argparse
 
 parser = argparse.ArgumentParser(description='Play Tetris')

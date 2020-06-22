@@ -1,4 +1,5 @@
 # Matthieu Schulz, 2019
+# London, United Kingdom
 
 from board import *
 from random import Random

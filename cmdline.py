@@ -1,3 +1,7 @@
+# Matthieu Schulz, 2019
+# London, United Kingdom
+
+
 from adversary import RandomAdversary
 from arguments import parser
 from board import Board, Direction, Rotation
