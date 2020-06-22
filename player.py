@@ -1,3 +1,5 @@
+# Matthieu Schulz, 2019
+
 from board import *
 from random import Random
 import math
