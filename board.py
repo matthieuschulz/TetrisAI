@@ -1,4 +1,4 @@
-# Matthieu Schulz, 2019
+# Matthieu Schulz -  2019
 # London United Kingdom
 
 from enum import Enum
