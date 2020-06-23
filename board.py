@@ -1,5 +1,5 @@
 # Matthieu Schulz, 2019
-# London, United Kingdom
+# London United Kingdom
 
 from enum import Enum
 from threading import Lock
